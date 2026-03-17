@@ -12,7 +12,7 @@
 
 #### Strategic Balance: By adjusting the classification threshold to 0.7, we optimized the model for the real world:
 
-#### Caught 89% of Frauds (87 out of 98).
+#### Caught 89% of Frauds (87 out of 98). ... 
 
 #### Reduced False Alarms by 72%, dropping from 2,204 down to just 618.
 
