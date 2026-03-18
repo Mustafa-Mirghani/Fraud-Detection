@@ -17,4 +17,4 @@
 #### Reduced False Alarms by 72%, dropping from 2,204 down to just 618.
 
 ## Final Verdict
-#### The model is ready for a production environment. It provides a massive security upgrade over traditional methods while maintaining a high level of customer satisfaction by keeping "false blocks" at a manageable level. ....
+#### The model is ready for a production environment. It provides a massive security upgrade over traditional methods while maintaining a high level of customer satisfaction by keeping "false blocks" at a manageable level. .
