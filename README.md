@@ -1,4 +1,4 @@
-# Credit Card Fraud ...
+# Credit Card Fraud .
 ###  Project Goal
 #### To build a machine learning system capable of detecting credit card fraud while minimizing the number of innocent customers whose transactions are wrongly blocked.
 
