@@ -166,8 +166,7 @@ cd Fraud-Detection
 pip install -r requirements.txt
 
 # 4. Launch Jupyter Notebook
-jupyter notebook notebooks/fraud_detection.ipynb
-# End- to - End Credit Card project final
+jupyter notebook notebooks/fraud_detection_final.ipynb
 
 # 5. Run all cells
 ```
